@@ -1,0 +1,14 @@
+body { margin: 2rem }
+
+.scrollable-menu {
+    height: auto;
+    max-height: 18rem;
+    overflow-x: hidden;
+}
+
+.input-group {
+  .input-group-btn .btn-secondary {
+    color: #464a4c;
+    background-color: #eceeef;
+  }
+}

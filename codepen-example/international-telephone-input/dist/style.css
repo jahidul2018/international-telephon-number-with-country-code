@@ -1,0 +1,14 @@
+body {
+  margin: 20px;
+}
+
+input {
+  width: 250px;
+  padding: 10px;
+  border-radius: 2px;
+  border: 1px solid #ccc;
+}
+
+input::placeholder {
+  color: #BBB;
+}
